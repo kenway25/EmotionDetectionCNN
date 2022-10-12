@@ -15,7 +15,7 @@
 
 ### Train Emotion detector
 - with all face expression images in the FER2013 Dataset
-- command --> python TranEmotionDetector.py
+- command --> python TrainDetector.py
 
 It will take several hours depends on your processor. (On separate lab system having i7 processor with 16 GB RAM it took me around 4 hours)
 after Training , you will find the trained model structure and weights are stored in your project directory.
