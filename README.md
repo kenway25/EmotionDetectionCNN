@@ -25,4 +25,4 @@ emotion_model.h5
 copy these two files create model folder in your project directory and paste it.
 
 ### run your emotion detection test file
-python TestEmotionDetector.py
+python TestDetector.py
